@@ -1,0 +1,8 @@
+dato un messaggio cifrato cercate di trovare il testo in chiaro
+
+
+"HSNFRGH"
+
+UTILIZZANDO IL CIFRARIO DI CESARE PER DECIFRARE IL MESSAGGIO, IL MESSAGGIO INCHIARO è:
+
+"EPICODE"
